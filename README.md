@@ -17,6 +17,6 @@ A Sentiment analyser using finbert model.
 - Finally run the code and your desired results will be saved your expected path -- Time to interpret the Analysis NOW🔥.
 
 ## Files - 
-- classify_csv.py - basic script, first version
-- classify_pandas.py - reads from CSV using Python's built-in csv module
-- sentiment_basic.py - final version, reads and saves using pandas with error handling
+- sentiment_basic.py — basic script, first version
+- classify_csv.py — reads from CSV using Python's built-in csv module  
+- classify_pandas.py — final version, reads and saves using pandas with error handling
